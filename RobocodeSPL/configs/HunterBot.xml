@@ -5,19 +5,19 @@
 	<feature manual="selected" name="SpinningRadar"/>
 	<feature automatic="unselected" name="MouseRadar"/>
 	<feature automatic="selected" name="Targeting"/>
-	<feature manual="selected" name="HeadOnTargeting"/>
-	<feature automatic="unselected" name="LinearTargeting"/>
+	<feature automatic="unselected" name="HeadOnTargeting"/>
+	<feature manual="selected" name="LinearTargeting"/>
 	<feature automatic="unselected" name="MouseTargeting"/>
 	<feature automatic="selected" name="Movement"/>
-	<feature manual="selected" name="NoMovement"/>
+	<feature automatic="unselected" name="NoMovement"/>
 	<feature automatic="unselected" name="KeyboardMovement"/>
-	<feature name="AutoMovement"/>
-	<feature name="Cornering"/>
-	<feature name="Line"/>
+	<feature automatic="selected" manual="selected" name="AutoMovement"/>
+	<feature automatic="unselected" name="Cornering"/>
+	<feature manual="selected" name="Line"/>
 	<feature automatic="selected" name="SelectEnemy"/>
 	<feature automatic="unselected" name="WeakestSelectEnemy"/>
-	<feature automatic="unselected" name="StrongestSelectEnemy"/>
-	<feature manual="selected" name="ClosestSelectEnemy"/>
+	<feature manual="selected" name="StrongestSelectEnemy"/>
+	<feature automatic="unselected" name="ClosestSelectEnemy"/>
 	<feature automatic="selected" name="Gun"/>
 	<feature manual="selected" name="MaximumPowerGun"/>
 	<feature automatic="unselected" name="NoFireGun"/>
