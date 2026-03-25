@@ -11,6 +11,7 @@
 	<feature automatic="selected" name="Movement"/>
 	<feature manual="selected" name="NoMovement"/>
 	<feature automatic="unselected" name="KeyboardMovement"/>
+	<feature automatic="unselected" name="ZigZagMovement"/>
 	<feature automatic="unselected" name="AutoMovement"/>
 	<feature automatic="unselected" name="Cornering"/>
 	<feature automatic="unselected" name="Line"/>

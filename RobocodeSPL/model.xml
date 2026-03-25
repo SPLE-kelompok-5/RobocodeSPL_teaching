@@ -27,6 +27,7 @@
 			<alt abstract="true" mandatory="true" name="Movement">
 				<feature name="NoMovement"/>
 				<feature name="KeyboardMovement"/>
+				<feature name="ZigZagMovement"/>
 				<alt abstract="true" name="AutoMovement">
 					<feature name="Cornering"/>
 					<feature name="Line"/>
